@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Software Enginner<br>🎯 Goals: Get a PhD<br>🎲 Fun fact: A big fan of movies and series!</p>
+<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Software Enginner<br>🎯 Goals: Get a PhD<br>🎲 Fun fact: A big fan of RPG and geek stuf.</p>
 
 ###
 
